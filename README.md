@@ -9,4 +9,3 @@ PIM=1, 15000 + 1000*(PIM)=16000 HMAC-SECRET_HASH operations.
 Algorithm) Classified
 
 Keepass databases KDF complies with OSWAP standard.
----------------------------------------------------------------------------------------------------
