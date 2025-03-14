@@ -8,4 +8,7 @@ VCRescue.zip
 PIM=1, 15000 + 1000*(PIM)=16000 HMAC-SECRET_HASH operations.
 Algorithm) Classified
 
+PastPWfromPoliceSeizure.kbdx
+Argon2d config) 7 rounds, 512 MiB memory, 8 threads & Twofish-256
+
 Keepass databases KDF complies with OSWAP standard.
